@@ -23,6 +23,7 @@ module.exports = {
     ],
     "rules": {
         "indent": ["error", 4],
+        'no-console': 'off',
         "strict": 0,
         "valid-jsdoc": 2,
         "react/jsx-uses-react": 2,
